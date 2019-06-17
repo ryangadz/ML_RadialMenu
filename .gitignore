@@ -1,0 +1,11 @@
+# UE4 Project directories to ignore
+ML_RadialMenu.code-workspace
+.vscode/*
+Binaries/*
+Intermediate/*
+Saved/*
+Build/*
+DerivedDataCache/*
+Plugins/*
+.vs/*
+Certificate/*
