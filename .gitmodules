@@ -1,0 +1,3 @@
+[submodule "Plugins/RadialMenu"]
+	path = Plugins/RadialMenu
+	url = https://github.com/ryangadz/RadialMenu.git
